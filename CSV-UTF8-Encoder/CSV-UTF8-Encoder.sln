@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSV-UTF8-Encoder", "CSV-UTF8-Encoder.csproj", "{1A2DA10A-EB6F-4C69-A4B4-F75794F53393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A2DA10A-EB6F-4C69-A4B4-F75794F53393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2DA10A-EB6F-4C69-A4B4-F75794F53393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2DA10A-EB6F-4C69-A4B4-F75794F53393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2DA10A-EB6F-4C69-A4B4-F75794F53393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D653912-72FF-4298-A916-87C173236CDA}
+	EndGlobalSection
+EndGlobal
