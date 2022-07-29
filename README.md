@@ -1,4 +1,4 @@
-# CSV UTF8 Encoder (C# Console Application)
+# CSV UTF8 Encoder (.NET 6.0 - C# Console Application Source Code)
 Reads a CSV file and converts everything to a readable UTF-8
 
 Before:<br>
